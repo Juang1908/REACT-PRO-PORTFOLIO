@@ -4,6 +4,7 @@ import LogoM from '../../assets/images/logo.jpg'
 import LogoJ from '../../assets/images/juang.jpg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
+import { faGithub, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
 const Sidebar = () => (
     <div className='nav-bar'>
@@ -22,6 +23,23 @@ const Sidebar = () => (
                 <FontAwesomeIcon icon={faEnvelope} color='#4d4d4e' />
             </NavLink>
         </nav>
+        <ul>
+        <li>
+            <a target="_blank" rel='noreferrer' href="https://www.linkedin.com/in/juan-galvan1/">
+                <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e' />
+            </a>
+        </li>
+        <li>
+            <a target="_blank" rel='noreferrer' href="https://www.github.com/Juang1908">
+                <FontAwesomeIcon icon={faGithub} color='#4d4d4e' />
+            </a>
+        </li>
+        <li>
+            <a target="_blank" rel='noreferrer' href="https://www.juang1908.github.io/Portfolio-Website/">
+                <FontAwesomeIcon icon={faYoutube} color='#4d4d4e' />
+            </a>
+        </li>
+        </ul>
     </div>
 )
 
