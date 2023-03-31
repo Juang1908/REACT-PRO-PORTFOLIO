@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import Jlogo from '../../assets/images/jlogo.jpg'
+// import Jlogo from '../../assets/images/jlogo.jpg'
 import AnimatedLetters from '../AnimatedLetters';
 import Logo from './Logo';
 import './index.scss';
