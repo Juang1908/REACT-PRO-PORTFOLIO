@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/REACT-PRO-PORTFOLIO/static/css/main.c65fc682.css",
+    "main.js": "/REACT-PRO-PORTFOLIO/static/js/main.a7ac222e.js",
+    "static/js/787.dab475a8.chunk.js": "/REACT-PRO-PORTFOLIO/static/js/787.dab475a8.chunk.js",
+    "static/media/fasthand-v26-latin-regular.woff2": "/REACT-PRO-PORTFOLIO/static/media/fasthand-v26-latin-regular.beee2c14e69582a5da4c.woff2",
+    "static/media/alkatra-v3-latin-regular.ttf": "/REACT-PRO-PORTFOLIO/static/media/alkatra-v3-latin-regular.fc4213512d4f6f7509ab.ttf",
+    "static/media/oswald-v49-latin-500.ttf": "/REACT-PRO-PORTFOLIO/static/media/oswald-v49-latin-500.ba0138d46a0a6a5753f1.ttf",
+    "static/media/logo.jpg": "/REACT-PRO-PORTFOLIO/static/media/logo.0f041e9a94953650eb9c.jpg",
+    "static/media/juang.jpg": "/REACT-PRO-PORTFOLIO/static/media/juang.ad34992a45ece1b2c6b9.jpg",
+    "index.html": "/REACT-PRO-PORTFOLIO/index.html",
+    "main.c65fc682.css.map": "/REACT-PRO-PORTFOLIO/static/css/main.c65fc682.css.map",
+    "main.a7ac222e.js.map": "/REACT-PRO-PORTFOLIO/static/js/main.a7ac222e.js.map",
+    "787.dab475a8.chunk.js.map": "/REACT-PRO-PORTFOLIO/static/js/787.dab475a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c65fc682.css",
+    "static/js/main.a7ac222e.js"
+  ]
+}
